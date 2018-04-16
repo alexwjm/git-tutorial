@@ -4,5 +4,5 @@
 -feature-A
 - fix-B
 -feature-C
--feature-D1
+-feature-D2
 
